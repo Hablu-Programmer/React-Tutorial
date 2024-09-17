@@ -1,0 +1,39 @@
+[
+    {
+        "username":"Eshan",
+        "number":"02114201",
+        "Address":"Dhaka, Bangladesh",
+        "Role":"Student"
+    },
+    {
+        "username":"Tutul",
+        "number":"32545641",
+        "Address":"Dhaka, Bangladesh",
+        "Role":"teacher"
+    },
+    {
+        "username":"Shajeeb",
+        "number":"02114201",
+        "Address":"Dhaka, Bangladesh",
+        "Role":"teacher"
+    },
+    {
+        "username":"tipu",
+        "number":"02114201",
+        "Address":"Dhaka, Bangladesh",
+        "Role":"teacher"
+    }
+    ,
+    {
+        "username":"radit",
+        "number":"02114201",
+        "Address":"Dhaka, Bangladesh",
+        "Role":"teacher"
+    },
+    {
+        "username":"salman",
+        "number":"02114201",
+        "Address":"Dhaka, Bangladesh",
+        "Role":"teacher"
+    }
+]
