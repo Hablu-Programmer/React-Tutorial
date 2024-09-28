@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Prevent body scrolling when the mobile menu is open */
+.no-scroll {
+  overflow: hidden;
+}
+
+/* Gradient Border Color */
+.footer-border-top {
+  border-image-source: linear-gradient(180deg, #00d2ff 0%, #059dbe 100%);
+  border-image-slice: 1;
+}

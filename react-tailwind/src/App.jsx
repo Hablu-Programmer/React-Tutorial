@@ -14,6 +14,10 @@ import MyComponent from './Components/HigherOrderComponent'
 import ThemeProvider from './Components/Context/Provider'
 ThemeProvider
 import ThemeToggler from './Components/Context/Consume'
+import CountDownTimer from './Components/Effect/useEffect'
+import Counter from './Components/Reducer/Reducer'
+import MyCounter from './Components/CallBack/CallBack'
+import DataFetching from './Components/UseEffect/MyAPi'
 
 function App() {
 
@@ -34,10 +38,17 @@ function App() {
       <BuggyComponent />
     </ErrorBoundary> */}
     {/* <MyComponent /> */}
-<ThemeProvider>
+{/* <ThemeProvider>
 <ThemeToggler />
 
-</ThemeProvider>
+</ThemeProvider> */}
+
+{/* <CountDownTimer /> */}
+
+{/* <Counter /> */}
+
+<MyCounter />
+<DataFetching />
         
     </>
   )
